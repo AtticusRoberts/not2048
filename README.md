@@ -1,2 +1,2 @@
-# not2048
-I made a clone of 2048 in processing
+# Not 2048
+I made a clone of 2048 in processing. I used no modules, and entierly my own code. The boxes are represented in a matrix called board. The values of the matrix are either 0 (empty) or whatever the value of the box is, ie: 2,4,32,etc. This was the simplist way that I could find to represent the boxes. The code itself is messy, and there are an unnecessarily high ammount of if statements, but I hope to clean that up in a future commit. 
